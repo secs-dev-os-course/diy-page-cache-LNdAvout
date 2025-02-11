@@ -1,0 +1,4 @@
+C:/Users/User/CLionProjects/diy-page-cache-LNdAvout/cmake-build-debug-mingw/CMakeFiles/cachelib.dir
+C:/Users/User/CLionProjects/diy-page-cache-LNdAvout/cmake-build-debug-mingw/CMakeFiles/lab2.dir
+C:/Users/User/CLionProjects/diy-page-cache-LNdAvout/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/diy-page-cache-LNdAvout/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
